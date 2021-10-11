@@ -15,6 +15,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           repositories: 300
+          repositories_forks: yes
           commits_authoring: damien@cassou.me, damien.cassou@wolterskluwer.com
           plugin_achievements: yes
           plugin_notable: yes
