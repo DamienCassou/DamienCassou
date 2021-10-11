@@ -17,3 +17,5 @@ jobs:
           commits_authoring: damien@cassou.me, damien.cassou@wolterskluwer.com
           plugin_achievements: yes
           plugin_notable: yes
+          plugin_achievements_limit: 10
+          plugin_achievements_ignored: gister, chatter
